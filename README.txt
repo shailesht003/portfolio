@@ -1,34 +1,15 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+This GitHub project showcases a dynamic online portfolio developed using HTML and CSS, designed to serve as an interactive resume. The portfolio presents a comprehensive overview of my professional background, skills, projects, and experiences in a visually appealing format.
 
+Key Features:
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Responsive Design: The portfolio is optimized for various devices, ensuring a seamless viewing experience on desktops, tablets, and mobile devices.
+Interactive Elements: Incorporates interactive elements to enhance user engagement and navigation.
+Project Showcase: Highlights key projects, skills, and achievements through intuitive layouts and visuals.
+Custom Styling: Utilizes custom CSS styles to achieve a unique and polished appearance that reflects personal branding.
+Technologies Used:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+HTML: Structured content and layout of the portfolio.
+CSS: Styled elements, animations, and responsive design features.
+Purpose:
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This project serves as a central hub for presenting my professional profile and portfolio of work to potential employers, collaborators, and the broader community. It demonstrates proficiency in web development and design principles, emphasizing usability, accessibility, and aesthetic appeal.
